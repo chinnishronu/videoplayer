@@ -1,0 +1,11 @@
+.each-video-container {
+  margin-bottom: 10px;
+  height: 3%;
+  width: 100%;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  margin-bottom: px;
+}
